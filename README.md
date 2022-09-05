@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aman7thakurr
 - 👀 I’m interested in  C++
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Varioud projects
+- 💞️ I’m looking to collaborate on Various projects
 - 📫 @aman7thakurr is my instagram
 
 <!---
