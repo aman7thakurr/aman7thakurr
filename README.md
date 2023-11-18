@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aman Thakur
-- 👀 I’m interested in  C++
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in  Python
 - 💞️ I’m looking to collaborate on Various projects
 - 📫 @aman7thakurr is my instagram
 
