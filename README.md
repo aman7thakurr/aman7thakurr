@@ -10,7 +10,7 @@
     </a>
    
    <a href="https://www.aman-thakur.netlify.app">
-      <img src="unnamed.gif" alt="pfp"/>
+      <img src="unnamed.gif" alt="pfp"style="height: 38px; width: 51px;"/>
     </a>
 
 
