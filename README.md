@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faman7thakur&logo=leetcode&logoColor=yellow"   alt="Leetcode Badge"/>
     </a>
     <a href="https://www.aman-thakur.netlify.app">
-      <img src="unnamed.gif"style="height: 18px;width=51px; border-radius:50%" alt="portfolio"/>
+      <img src="unnamed.gif"style="height: 38px;width=51px; border-radius:50%" alt="portfolio"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=aman7thakurr&style=flat-square&color=blue" alt=""/>
