@@ -4,9 +4,6 @@
   <div id="badges">
     <a href="https://www.linkedin.com/in/aman7thakurr">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a> 
-     <a href="https://www.aman-thakur.netlify.app">
-      <img src="unnamed.gif" alt="pfp"style="height: 78px; width: 71px;"/>
     </a>
     <a href="https://leetcode.com/u/aman7thakur">
       <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faman7thakur&logo=leetcode&logoColor=yellow"   alt="Leetcode Badge"/>
