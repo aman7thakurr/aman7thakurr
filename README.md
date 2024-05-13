@@ -11,7 +11,7 @@
     <a href="https://www.aman-thakur.netlify.app">
      <img src="unnamed.gif" style="height: 38px; width: 51px; border-radius: 50%;">
 
-    </a>
+   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=aman7thakurr&style=flat-square&color=blue" alt=""/>
   <h1>
