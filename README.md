@@ -8,8 +8,8 @@
     <a href="https://leetcode.com/u/aman7thakur">
       <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faman7thakur&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://www.hackerrank.com/profile/amant8425">
+      <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="Hacker Rank"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=aman7thakurr&style=flat-square&color=blue" alt=""/>
