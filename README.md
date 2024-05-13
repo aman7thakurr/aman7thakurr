@@ -8,8 +8,8 @@
     <a href="https://leetcode.com/u/aman7thakur">
       <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faman7thakur&logo=leetcode&logoColor=yellow"   alt="Leetcode Badge"/>
     </a>
-    <a href="https://aman-thakur.netlify.app">
-      <img class="YPzqGd" src="//lh3.googleusercontent.com/a/ACg8ocJYQ7YSok6NTk5sz5ARhzPKP5CRflnX5urnBuhBBnzQ5bpgdSweUA=s96-c-rg-br100" alt="" aria-hidden="true" srcset="//lh3.googleusercontent.com/a/ACg8ocJYQ7YSok6NTk5sz5ARhzPKP5CRflnX5urnBuhBBnzQ5bpgdSweUA=s192-c-rg-br100 2x, //lh3.googleusercontent.com/a/ACg8ocJYQ7YSok6NTk5sz5ARhzPKP5CRflnX5urnBuhBBnzQ5bpgdSweUA=s288-c-rg-br100 3x, //lh3.googleusercontent.com/a/ACg8ocJYQ7YSok6NTk5sz5ARhzPKP5CRflnX5urnBuhBBnzQ5bpgdSweUA=s384-c-rg-br100 4x" data-atf="false" data-iml="5012">
+    <a href="https://www.aman-thakur.netlify.app">
+      <img src="unnamed.gif"style="height: 18px;width=51px; border-radius:50%" alt="portfolio"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=aman7thakurr&style=flat-square&color=blue" alt=""/>
