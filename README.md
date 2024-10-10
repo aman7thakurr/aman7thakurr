@@ -58,6 +58,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
+![Top Languages](https://github-stats-devunivisionz.vercel.app/api/top-langs/?username=aman7thakurr&theme=tokyonight)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aman7thakurr&theme=dark&background=000000)](https://git.io/streak-stats)
