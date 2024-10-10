@@ -58,6 +58,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
+<div style="display:flex;">
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman7thakurr&layout=compact&theme=tokyonight)
+ ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman7thakurr&show_icons=true&theme=radical)
+
+</div>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman7thakurr&layout=compact&theme=tokyonight)
 
 
