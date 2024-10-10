@@ -58,7 +58,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; gap:50px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman7thakurr&layout=compact&theme=tokyonight" alt="Most Used Languages">
   <img src="https://github-readme-stats.vercel.app/api?username=aman7thakurr&show_icons=true&theme=radical" alt="Your GitHub Stats">
 </div>
