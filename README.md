@@ -69,8 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=aman7thakurr)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aman7thakurr" alt="GitHub Streak" /></a>
 
 ---
 
